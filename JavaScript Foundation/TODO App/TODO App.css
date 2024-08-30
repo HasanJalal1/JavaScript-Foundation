@@ -1,0 +1,15 @@
+#todoList {
+    list-style-type: none;
+    padding: 0;
+}
+
+.todoItem {
+    display: flex;
+    align-items: center;
+    margin: 8px 0;
+}
+
+.deleteButton {
+    margin-left: 10px;
+    cursor: pointer;
+}
